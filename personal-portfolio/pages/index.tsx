@@ -1,9 +1,11 @@
 import HeadingSection from "../sections/HeadingSection";
+import SummarySection from "../sections/SummarySection";
 
 export default function Home() {
   return (
-    <main style={{ maxWidth: 1100, margin: "0 auto", padding: "0 24px" }}>
+    <main>
       <HeadingSection />
+      <SummarySection />
     </main>
   );
 }
