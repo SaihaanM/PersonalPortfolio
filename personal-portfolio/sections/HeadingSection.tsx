@@ -40,7 +40,7 @@ export default function HeadingSection() {
         <h1 className={styles.name}>Saihaan Mahmud</h1>
 
         <p className={styles.tagline}>
-          Computer Science Student • Software & Data Science
+          Computer Science Student • Software Development & Data Science
         </p>
 
         <nav className={styles.links}>
